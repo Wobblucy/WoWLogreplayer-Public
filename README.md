@@ -111,22 +111,19 @@ A: Unfortunately no. AwowLab requires Vulkan 1.3+. Most GPUs from 2015+ support 
 A: Currently only tested with Retail WoW. Classic support may come in the future.
 
 **Q: Can I use this during raids?**
-A: AwowLab reads log files **after** the raid. It does not interact with the game client.
+A: AwowLab reads log files **after** the encounter. There is no way to 'refresh' a log without closing and restsrting the .exe. 
 
 **Q: Is this against WoW's Terms of Service?**
 A: No. This tool only reads combat log files that Blizzard provides. It does not modify game files or memory.
 
 **Q: Why are some spell icons missing?**
-A: Spell icon coverage is still being improved. Default icons will show for unmapped spells.
-
-**Q: Can I export videos?**
-A: Not yet, but this feature is on the roadmap!
+A: Spell icon coverage should be complete with the provided icon pack. If an icon is missing please create a github issue. 
 
 ## Known Issues
 
-- Some spell icons may not load (shows gray placeholder)
-- Very large log files (>500MB) may take time to load
-- First-time startup may be slower while shaders compile
+- No way to 'refresh' the log being parsed.
+- No way to filter friendly creatures.
+- Terminal used for debug on launch in release build.
 
 ## Changelog
 
