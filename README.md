@@ -1,6 +1,6 @@
 # AwowLab - WoW Combat Log Visualizer
 
-Visualize your World of Warcraft raid encounters in stunning 3D. Watch combat positioning, track spell casts, and analyze your gameplay like never before.
+Visualize your World of Warcraft raid encounters in 3D.
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![Downloads](https://img.shields.io/github/downloads/Wobblucy/WoWLogreplayer-Public/total)
@@ -27,7 +27,7 @@ Visualize your World of Warcraft raid encounters in stunning 3D. Watch combat po
 - Fast download and install
 
 #### Spell Icon Pack (~218MB) - Optional
-- Adds spell icon images for visual clarity
+- Adds spell icon images for GCD history.
 - Extract to same folder as AwowLab.exe
 - Automatically detected on startup
 
@@ -105,10 +105,10 @@ Visualize your World of Warcraft raid encounters in stunning 3D. Watch combat po
 ## FAQ
 
 **Q: My GPU doesn't support Vulkan, will this work?**
-A: Unfortunately no. AwowLab requires Vulkan 1.3+. Most GPUs from 2015+ support this.
+A: No.
 
 **Q: Does this work with Classic WoW?**
-A: Currently only tested with Retail WoW. Classic support may come in the future.
+A: Currently only tested with Retail WoW.
 
 **Q: Can I use this during raids?**
 A: AwowLab reads log files **after** the encounter. There is no way to 'refresh' a log without closing and restsrting the .exe. 
