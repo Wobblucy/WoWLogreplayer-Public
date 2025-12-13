@@ -123,9 +123,7 @@ A: Spell icon coverage should be complete with the provided icon pack. If an ico
 
 ## Known Issues
 
-- No way to 'refresh' the log being parsed.
-- No way to filter friendly creatures.
-- Terminal used for debug on launch in release build.
+
 
 ## Changelog
 
