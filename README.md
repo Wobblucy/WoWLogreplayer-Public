@@ -9,6 +9,7 @@ Visualize your World of Warcraft raid encounters in 3D.
 ## Features
 
 - **3D Encounter Replay** - Watch boss fights from an RTS-style camera
+- **Manaforge Omega Support** - Full minimap support for Season 2 raid
 - **GCD History** - See what spells players are casting with spell icons
 - **Timeline Controls** - Scrub through combat, adjust playback speed
 - **Player Focus** - Follow individual players through the fight
@@ -21,13 +22,14 @@ Visualize your World of Warcraft raid encounters in 3D.
 
 ### Two Download Options
 
-#### Lightweight Build (~3.5MB) - Recommended
+#### Lightweight Build (~9MB) - Recommended
 - Core application with all features
+- Includes Manaforge Omega worldmaps
 - Spell icons show as gray placeholders
 - Fast download and install
 
 #### Spell Icon Pack (~218MB) - Optional
-- Adds spell icon images for GCD history.
+- Adds spell icon images for GCD history
 - Extract to same folder as AwowLab.exe
 - Automatically detected on startup
 
@@ -36,7 +38,7 @@ Visualize your World of Warcraft raid encounters in 3D.
 - **Windows 10/11** (64-bit)
 - **Vulkan-compatible GPU** (NVIDIA GTX 900+ / AMD RX 400+ / Intel Arc)
 - **4GB RAM** minimum
-- **5MB** disk space (+ 218MB for icon pack if installed)
+- **30MB** disk space (+ 218MB for icon pack if installed)
 
 ## Quick Start
 
