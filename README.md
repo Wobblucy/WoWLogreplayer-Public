@@ -4,8 +4,6 @@ A 3D combat log visualizer for World of Warcraft. Parse and replay your raid enc
 
 ![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.4.0--alpha-orange)
 
-## Demo
-
 ## Features
 
 - **3D Combat Visualization** - Watch your raid's positioning in real-time 3D
