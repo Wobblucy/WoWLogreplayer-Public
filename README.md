@@ -42,6 +42,22 @@ Installation:
 2. Replace the `PNG` folder in your AwowLab directory with the one from the ZIP
 3. Restart AwowLab - icons will load automatically
 
+
+https://github.com/user-attachments/assets/84065a5d-2c8a-43ab-a83d-40f09e01ae68
+
+
+
+https://github.com/user-attachments/assets/b39a2b25-86e2-403d-84f2-ed3f0f956ab5
+
+
+
+https://github.com/user-attachments/assets/4429290f-deba-4f5d-b786-2f2877157fd5
+
+
+
+https://github.com/user-attachments/assets/ee129c95-85f7-4963-8893-52badb964aeb
+
+
 ## Usage
 
 1. Run `AwowLab.exe`
