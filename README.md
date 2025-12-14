@@ -70,7 +70,6 @@ https://github.com/user-attachments/assets/ee129c95-85f7-4963-8893-52badb964aeb
 
 - Windows 10/11 (64-bit)
 - Vulkan-compatible GPU (NVIDIA GTX 900+, AMD RX 400+, Intel Arc)
-- 4GB RAM minimum
 
 ## Bug Reports & Feedback
 
