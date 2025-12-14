@@ -4,6 +4,20 @@ A 3D combat log visualizer for World of Warcraft. Parse and replay your raid enc
 
 ![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.4.0--alpha-orange)
 
+## Demo
+
+### Base Functionality
+<video src="https://github.com/Wobblucy/WoWLogreplayer-Public/raw/main/assets/base-functionality.mp4" controls width="100%"></video>
+
+### Dynamic Map Loading
+<video src="https://github.com/Wobblucy/WoWLogreplayer-Public/raw/main/assets/dynamic-map-loading.mp4" controls width="100%"></video>
+
+### Follow A Player
+<video src="https://github.com/Wobblucy/WoWLogreplayer-Public/raw/main/assets/follow-a-player.mp4" controls width="100%"></video>
+
+### M+ Compatible
+<video src="https://github.com/Wobblucy/WoWLogreplayer-Public/raw/main/assets/mplus-compatible.mp4" controls width="100%"></video>
+
 ## Features
 
 - **3D Combat Visualization** - Watch your raid's positioning in real-time 3D
