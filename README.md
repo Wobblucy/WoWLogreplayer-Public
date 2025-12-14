@@ -6,17 +6,13 @@ A 3D combat log visualizer for World of Warcraft. Parse and replay your raid enc
 
 ## Demo
 
-### Base Functionality
-<video src="https://github.com/Wobblucy/WoWLogreplayer-Public/raw/main/assets/base-functionality.mp4" controls width="100%"></video>
+| Base Functionality | Dynamic Map Loading |
+|:--:|:--:|
+| [▶️ Watch Video](https://github.com/Wobblucy/WoWLogreplayer-Public/raw/main/assets/base-functionality.mp4) | [▶️ Watch Video](https://github.com/Wobblucy/WoWLogreplayer-Public/raw/main/assets/dynamic-map-loading.mp4) |
 
-### Dynamic Map Loading
-<video src="https://github.com/Wobblucy/WoWLogreplayer-Public/raw/main/assets/dynamic-map-loading.mp4" controls width="100%"></video>
-
-### Follow A Player
-<video src="https://github.com/Wobblucy/WoWLogreplayer-Public/raw/main/assets/follow-a-player.mp4" controls width="100%"></video>
-
-### M+ Compatible
-<video src="https://github.com/Wobblucy/WoWLogreplayer-Public/raw/main/assets/mplus-compatible.mp4" controls width="100%"></video>
+| Follow A Player | M+ Compatible |
+|:--:|:--:|
+| [▶️ Watch Video](https://github.com/Wobblucy/WoWLogreplayer-Public/raw/main/assets/follow-a-player.mp4) | [▶️ Watch Video](https://github.com/Wobblucy/WoWLogreplayer-Public/raw/main/assets/mplus-compatible.mp4) |
 
 ## Features
 
@@ -71,4 +67,4 @@ Please report issues at: https://github.com/Wobblucy/WoWLogreplayer-Public/issue
 
 ## License
 
-This software is provided as-is for personal use.
+All rights reserved.
