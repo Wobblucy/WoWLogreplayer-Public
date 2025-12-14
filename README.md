@@ -6,14 +6,6 @@ A 3D combat log visualizer for World of Warcraft. Parse and replay your raid enc
 
 ## Demo
 
-| Base Functionality | Dynamic Map Loading |
-|:--:|:--:|
-| [▶️ Watch Video](https://github.com/Wobblucy/WoWLogreplayer-Public/raw/main/assets/base-functionality.mp4) | [▶️ Watch Video](https://github.com/Wobblucy/WoWLogreplayer-Public/raw/main/assets/dynamic-map-loading.mp4) |
-
-| Follow A Player | M+ Compatible |
-|:--:|:--:|
-| [▶️ Watch Video](https://github.com/Wobblucy/WoWLogreplayer-Public/raw/main/assets/follow-a-player.mp4) | [▶️ Watch Video](https://github.com/Wobblucy/WoWLogreplayer-Public/raw/main/assets/mplus-compatible.mp4) |
-
 ## Features
 
 - **3D Combat Visualization** - Watch your raid's positioning in real-time 3D
@@ -43,19 +35,6 @@ Installation:
 3. Restart AwowLab - icons will load automatically
 
 
-https://github.com/user-attachments/assets/84065a5d-2c8a-43ab-a83d-40f09e01ae68
-
-
-
-https://github.com/user-attachments/assets/b39a2b25-86e2-403d-84f2-ed3f0f956ab5
-
-
-
-https://github.com/user-attachments/assets/4429290f-deba-4f5d-b786-2f2877157fd5
-
-
-
-https://github.com/user-attachments/assets/ee129c95-85f7-4963-8893-52badb964aeb
 
 
 ## Usage
@@ -70,6 +49,22 @@ https://github.com/user-attachments/assets/ee129c95-85f7-4963-8893-52badb964aeb
 - **Left/Middle Drag** - Pan camera
 - **Mouse Wheel** - Zoom in/out
 - **File Menu** - Change encounter or log file
+
+### Example Playback
+
+https://github.com/user-attachments/assets/84065a5d-2c8a-43ab-a83d-40f09e01ae68
+
+
+
+https://github.com/user-attachments/assets/b39a2b25-86e2-403d-84f2-ed3f0f956ab5
+
+
+
+https://github.com/user-attachments/assets/4429290f-deba-4f5d-b786-2f2877157fd5
+
+
+
+https://github.com/user-attachments/assets/ee129c95-85f7-4963-8893-52badb964aeb
 
 ## Requirements
 
