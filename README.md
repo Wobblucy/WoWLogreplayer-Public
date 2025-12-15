@@ -1,3 +1,5 @@
+# Release taken down as it was potentially in violation of API ToS of Wclogs. Going to post a release tomorrow that excludes WCLogs functionality until we can be sure to stay on side!
+
 # AwowLab
 
 A 3D combat log visualizer for World of Warcraft. Parse and replay your raid encounters with real-time positioning, damage meters, and spell tracking.
@@ -86,4 +88,5 @@ Please report issues at: https://github.com/Wobblucy/WoWLogreplayer-Public/issue
 ## License
 
 This software is provided as-is for personal use.
+
 
