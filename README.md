@@ -1,4 +1,4 @@
-# Release taken down as it was potentially in violation of API ToS of Wclogs. Going to post a release tomorrow that excludes WCLogs functionality until we can be sure to stay on side!
+# Release taken down as it was potentially in violation of API ToS of Wclogs. Going to post a release tomorrow that excludes WCLogs functionality. May return at a later date/in some other form if there is a good way to stay onside. 
 
 # AwowLab
 
@@ -88,5 +88,6 @@ Please report issues at: https://github.com/Wobblucy/WoWLogreplayer-Public/issue
 ## License
 
 This software is provided as-is for personal use.
+
 
 
