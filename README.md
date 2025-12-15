@@ -1,32 +1,11 @@
-# Release taken down as it was potentially in violation of API ToS of Wclogs. Going to post a release tomorrow that excludes WCLogs functionality. May return at a later date/in some other form if there is a good way to stay onside. 
-
 # AwowLab
 
 A 3D combat log visualizer for World of Warcraft. Parse and replay your raid encounters with real-time positioning, damage meters, and spell tracking.
 
-![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.5.0--alpha-orange)
-
-## Preview
-
-
-https://github.com/user-attachments/assets/19649b25-0a5e-48a6-ae09-b29eda766128
-
-
-
-https://github.com/user-attachments/assets/1b3755a3-5fb5-47f3-99b8-99651b6aaf23
-
-
-
-https://github.com/user-attachments/assets/c845972a-5158-4d4c-9909-ab54ccdce0e1
-
-
-
-https://github.com/user-attachments/assets/30af2595-d2dd-46c2-866d-27e2dd76c420
-
+![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.6.1--alpha-orange)
 
 ## Features
 
-- **WarcraftLogs Integration** - Load reports directly from WarcraftLogs URLs
 - **3D Combat Visualization** - Watch your raid's positioning in real-time 3D
 - **DPS/HPS Meters** - Track damage and healing with spell breakdowns
 - **Raid Frames** - See health/power bars for all raid members
@@ -39,7 +18,7 @@ https://github.com/user-attachments/assets/30af2595-d2dd-46c2-866d-27e2dd76c420
 ## Downloads
 
 ### Quick Start (Lite Version)
-Download **AwowLab-v0.5.0-alpha-Lite.zip** from the [Releases](https://github.com/Wobblucy/WoWLogreplayer-Public/releases) page.
+Download **AwowLab-v0.6.1-alpha-Lite.zip** from the [Releases](https://github.com/Wobblucy/WoWLogreplayer-Public/releases) page.
 
 This includes everything you need to get started (~17 MB).
 
@@ -55,18 +34,10 @@ Installation:
 
 ## Usage
 
-### From Local File
 1. Run `AwowLab.exe`
 2. Click "Local File" on the landing page
 3. Select your WoW combat log file (usually in `World of Warcraft\_retail_\Logs\`)
 4. Choose an encounter from the list
-5. Use the timeline to scrub through the fight
-
-### From WarcraftLogs
-1. Run `AwowLab.exe`
-2. Click "WarcraftLogs" on the landing page
-3. Paste a WarcraftLogs report URL
-4. Select a fight from the report
 5. Use the timeline to scrub through the fight
 
 ### Controls
@@ -88,6 +59,3 @@ Please report issues at: https://github.com/Wobblucy/WoWLogreplayer-Public/issue
 ## License
 
 This software is provided as-is for personal use.
-
-
-
