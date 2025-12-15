@@ -4,6 +4,24 @@ A 3D combat log visualizer for World of Warcraft. Parse and replay your raid enc
 
 ![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.5.0--alpha-orange)
 
+## Preview
+
+
+https://github.com/user-attachments/assets/19649b25-0a5e-48a6-ae09-b29eda766128
+
+
+
+https://github.com/user-attachments/assets/1b3755a3-5fb5-47f3-99b8-99651b6aaf23
+
+
+
+https://github.com/user-attachments/assets/c845972a-5158-4d4c-9909-ab54ccdce0e1
+
+
+
+https://github.com/user-attachments/assets/30af2595-d2dd-46c2-866d-27e2dd76c420
+
+
 ## Features
 
 - **WarcraftLogs Integration** - Load reports directly from WarcraftLogs URLs
@@ -68,3 +86,4 @@ Please report issues at: https://github.com/Wobblucy/WoWLogreplayer-Public/issue
 ## License
 
 This software is provided as-is for personal use.
+
