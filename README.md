@@ -36,7 +36,7 @@ This includes everything you need to get started (~19 MB).
 ### Spell Icons (Optional)
 For spell icon support, download the PNG pack from Google Drive:
 
-**[Download PNG Pack (71 MB)](https://drive.google.com/file/d/1Q1x-V1u2opNo5DYY9lIyanNgo8f0pAJc/view?usp=sharing)**
+**[Download PNG Pack (71 MB)](https://drive.google.com/file/d/1ATJqh8SAmv3JDCT79-e5dU1hvi1kNlFb/view?usp=sharing)**
 
 Installation:
 1. Download and extract the PNG.zip
@@ -71,4 +71,5 @@ Please report issues at: https://github.com/Wobblucy/WoWLogreplayer-Public/issue
 ## License
 
 This software is provided as-is for personal use.
+
 
