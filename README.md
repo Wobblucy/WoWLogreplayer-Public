@@ -2,10 +2,11 @@
 
 A 3D combat log visualizer for World of Warcraft. Parse and replay your raid encounters with real-time positioning, damage meters, and spell tracking.
 
-![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.4.0--alpha-orange)
+![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.5.0--alpha-orange)
 
 ## Features
 
+- **WarcraftLogs Integration** - Load reports directly from WarcraftLogs URLs
 - **3D Combat Visualization** - Watch your raid's positioning in real-time 3D
 - **DPS/HPS Meters** - Track damage and healing with spell breakdowns
 - **Raid Frames** - See health/power bars for all raid members
@@ -18,7 +19,7 @@ A 3D combat log visualizer for World of Warcraft. Parse and replay your raid enc
 ## Downloads
 
 ### Quick Start (Lite Version)
-Download **AwowLab-v0.4.0-alpha-Lite.zip** from the [Releases](https://github.com/Wobblucy/WoWLogreplayer-Public/releases) page.
+Download **AwowLab-v0.5.0-alpha-Lite.zip** from the [Releases](https://github.com/Wobblucy/WoWLogreplayer-Public/releases) page.
 
 This includes everything you need to get started (~17 MB).
 
@@ -32,15 +33,21 @@ Installation:
 2. Replace the `PNG` folder in your AwowLab directory with the one from the ZIP
 3. Restart AwowLab - icons will load automatically
 
-
-
-
 ## Usage
 
+### From Local File
 1. Run `AwowLab.exe`
-2. Select your WoW combat log file (usually in `World of Warcraft\_retail_\Logs\`)
-3. Choose an encounter from the list
-4. Use the timeline to scrub through the fight
+2. Click "Local File" on the landing page
+3. Select your WoW combat log file (usually in `World of Warcraft\_retail_\Logs\`)
+4. Choose an encounter from the list
+5. Use the timeline to scrub through the fight
+
+### From WarcraftLogs
+1. Run `AwowLab.exe`
+2. Click "WarcraftLogs" on the landing page
+3. Paste a WarcraftLogs report URL
+4. Select a fight from the report
+5. Use the timeline to scrub through the fight
 
 ### Controls
 - **Right Mouse Drag** - Rotate camera
@@ -48,26 +55,11 @@ Installation:
 - **Mouse Wheel** - Zoom in/out
 - **File Menu** - Change encounter or log file
 
-### Example Playback
-
-https://github.com/user-attachments/assets/84065a5d-2c8a-43ab-a83d-40f09e01ae68
-
-
-
-https://github.com/user-attachments/assets/b39a2b25-86e2-403d-84f2-ed3f0f956ab5
-
-
-
-https://github.com/user-attachments/assets/4429290f-deba-4f5d-b786-2f2877157fd5
-
-
-
-https://github.com/user-attachments/assets/ee129c95-85f7-4963-8893-52badb964aeb
-
 ## Requirements
 
 - Windows 10/11 (64-bit)
 - Vulkan-compatible GPU (NVIDIA GTX 900+, AMD RX 400+, Intel Arc)
+- 4GB RAM minimum
 
 ## Bug Reports & Feedback
 
@@ -75,4 +67,4 @@ Please report issues at: https://github.com/Wobblucy/WoWLogreplayer-Public/issue
 
 ## License
 
-All rights reserved.
+This software is provided as-is for personal use.
