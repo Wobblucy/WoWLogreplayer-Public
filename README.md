@@ -2,11 +2,12 @@
 
 A 3D combat log visualizer for World of Warcraft. Parse and replay your raid encounters with real-time positioning, damage meters, and spell tracking.
 
-![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.6.1--alpha-orange)
+![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.6.2--alpha-orange)
 
 ## Features
 
 - **3D Combat Visualization** - Watch your raid's positioning in real-time 3D
+- **WarcraftLogs Integration** - Load reports directly from WarcraftLogs URLs
 - **DPS/HPS Meters** - Track damage and healing with spell breakdowns
 - **Raid Frames** - See health/power bars for all raid members
 - **Enemy Grid** - Monitor boss and add health
@@ -18,9 +19,9 @@ A 3D combat log visualizer for World of Warcraft. Parse and replay your raid enc
 ## Downloads
 
 ### Quick Start (Lite Version)
-Download **AwowLab-v0.6.1-alpha-Lite.zip** from the [Releases](https://github.com/Wobblucy/WoWLogreplayer-Public/releases) page.
+Download **AwowLab-v0.6.2-Lite.zip** from the [Releases](https://github.com/Wobblucy/WoWLogreplayer-Public/releases) page.
 
-This includes everything you need to get started (~17 MB).
+This includes everything you need to get started (~19 MB).
 
 ### Spell Icons (Optional)
 For spell icon support, download the PNG pack from Google Drive:
@@ -35,10 +36,11 @@ Installation:
 ## Usage
 
 1. Run `AwowLab.exe`
-2. Click "Local File" on the landing page
-3. Select your WoW combat log file (usually in `World of Warcraft\_retail_\Logs\`)
-4. Choose an encounter from the list
-5. Use the timeline to scrub through the fight
+2. Choose your data source:
+   - **Local File** - Browse for your WoW combat log (usually in `World of Warcraft\_retail_\Logs\`)
+   - **WarcraftLogs** - Paste a WarcraftLogs report URL
+3. Select an encounter from the list
+4. Use the timeline to scrub through the fight
 
 ### Controls
 - **Right Mouse Drag** - Rotate camera
