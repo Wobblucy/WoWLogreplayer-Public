@@ -2,7 +2,7 @@
 
 A 3D combat log visualizer for World of Warcraft. Parse and replay your raid encounters with real-time positioning, damage meters, and spell tracking.
 
-![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.6.2--alpha-orange)
+![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.7.0--alpha-orange)
 
 ## Preview
 
@@ -19,6 +19,7 @@ https://github.com/user-attachments/assets/98794ac9-029c-4e0b-af06-c892e64ce4b8
 - **3D Combat Visualization** - Watch your raid's positioning in real-time 3D
 - **WarcraftLogs Integration** - Load reports directly from WarcraftLogs URLs
 - **DPS/HPS Meters** - Track damage and healing with spell breakdowns
+- **Actor Breakdown Panel** - Detailed spell-by-spell analysis with interactive time range selection
 - **Raid Frames** - See health/power bars for all raid members
 - **Enemy Grid** - Monitor boss and add health
 - **Death Log** - Click to jump to any player death in the timeline
@@ -29,14 +30,14 @@ https://github.com/user-attachments/assets/98794ac9-029c-4e0b-af06-c892e64ce4b8
 ## Downloads
 
 ### Quick Start (Lite Version)
-Download **AwowLab-v0.6.2-Lite.zip** from the [Releases](https://github.com/Wobblucy/WoWLogreplayer-Public/releases) page.
+Download **AwowLab-v0.7.0-Alpha-Lite.zip** from the [Releases](https://github.com/Wobblucy/WoWLogreplayer-Public/releases) page.
 
-This includes everything you need to get started (~19 MB).
+This includes everything you need to get started (~16 MB).
 
 ### Spell Icons (Optional)
 For spell icon support, download the PNG pack from Google Drive:
 
-**[Download PNG Pack (71 MB)](https://drive.google.com/file/d/1ATJqh8SAmv3JDCT79-e5dU1hvi1kNlFb/view?usp=sharing)**
+**[Download PNG Pack (71 MB)](https://drive.google.com/file/d/1ATJqh8SAmv3JDCT79-e5dU1hvi1kNlFb/view?usp=drive_link)**
 
 Installation:
 1. Download and extract the PNG.zip
@@ -71,5 +72,3 @@ Please report issues at: https://github.com/Wobblucy/WoWLogreplayer-Public/issue
 ## License
 
 This software is provided as-is for personal use.
-
-
