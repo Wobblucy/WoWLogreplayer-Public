@@ -39,8 +39,8 @@ For spell icon support, download the PNG pack from Google Drive:
 
 **[Download PNG Pack (71 MB)](https://drive.google.com/file/d/1ATJqh8SAmv3JDCT79-e5dU1hvi1kNlFb/view?usp=drive_link)**
 
-**Youtube Guide to Show Icon Pack Installtion can be found here:**
-https://www.youtube.com/watch?v=CKY6U37Bn1s
+**[Youtube Guide to Show Icon Pack Installtion](https://www.youtube.com/watch?v=CKY6U37Bn1s)**
+
 
 Installation:
 1. Download and extract the PNG.zip
