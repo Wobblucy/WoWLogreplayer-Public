@@ -27,6 +27,8 @@ https://github.com/user-attachments/assets/98794ac9-029c-4e0b-af06-c892e64ce4b8
 - **Spell Icons** - Optional icon pack for spell history display
 - **Timeline Scrubbing** - Navigate through encounters frame-by-frame
 
+![Screenshot 2025-12-19 004159](https://github.com/user-attachments/assets/08f7ad0a-6811-4213-a8f6-ef84502b9435)
+
 ## Downloads
 
 ### Quick Start (Lite Version)
