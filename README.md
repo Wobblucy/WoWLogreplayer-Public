@@ -39,7 +39,7 @@ This includes everything you need to get started (~16 MB).
 ### Spell Icons (Optional)
 For spell icon support, download the PNG pack from Google Drive:
 
-**[Download PNG Pack (71 MB)](https://drive.google.com/file/d/1P32XQamEmBN8dfkgPLfP2vLixHlyMgzB/view?usp=sharing)**
+**[Download PNG Pack (109 MB)](https://drive.google.com/file/d/1P32XQamEmBN8dfkgPLfP2vLixHlyMgzB/view?usp=sharing)**
 
 **[Youtube Guide to Show Icon Pack Installtion](https://www.youtube.com/watch?v=CKY6U37Bn1s)**
 
