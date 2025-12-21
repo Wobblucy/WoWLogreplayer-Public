@@ -2,7 +2,7 @@
 
 A 3D combat log visualizer for World of Warcraft. Parse and replay your raid encounters with real-time positioning, damage meters, and spell tracking.
 
-![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.7.0--alpha-orange)
+![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.9.0--beta-orange)
 
 ## Preview
 
@@ -26,23 +26,31 @@ https://github.com/user-attachments/assets/98794ac9-029c-4e0b-af06-c892e64ce4b8
 - **World Maps** - Dungeon and raid maps rendered on the floor plane
 - **Spell Icons** - Optional icon pack for spell history display
 - **Timeline Scrubbing** - Navigate through encounters frame-by-frame
+- **Pre-Encounter Events** - View pre-pull buffs and positioning with negative timestamps
 
 ![Screenshot 2025-12-19 004159](https://github.com/user-attachments/assets/08f7ad0a-6811-4213-a8f6-ef84502b9435)
 
 ## Downloads
 
 ### Quick Start (Lite Version)
-Download **AwowLab-v0.7.0-Alpha-Lite.zip** from the [Releases](https://github.com/Wobblucy/WoWLogreplayer-Public/releases) page.
+Download **AwowLab-v0.9.0-beta-Lite.zip** from the [Releases](https://github.com/Wobblucy/WoWLogreplayer-Public/releases) page.
 
-This includes everything you need to get started (~16 MB).
+This includes everything you need to get started (~28 MB).
 
 ### Spell Icons (Optional)
-For spell icon support, download the PNG pack from Google Drive:
+For spell icon support, download one of the PNG packs from Google Drive:
 
-**[Download PNG Pack (109 MB)](https://drive.google.com/file/d/1P32XQamEmBN8dfkgPLfP2vLixHlyMgzB/view?usp=sharing)**
+**Retail (Recommended for most users):**
+**[Download Retail Icon Pack](https://drive.google.com/file/d/1ATJqh8SAmv3JDCT79-e5dU1hvi1kNlFb/view?usp=drive_link)**
+- Use this pack if you are analyzing retail WoW logs
+- Contains all current spell icons
 
-**[Youtube Guide to Show Icon Pack Installtion](https://www.youtube.com/watch?v=CKY6U37Bn1s)**
+**Beta/PTR:**
+**[Download Beta Icon Pack](https://drive.google.com/file/d/1TIeLQ6Dt7QBSMeqBPAqY_Dy5e_q6ABQ0/view?usp=drive_link)**
+- Use this pack for beta/PTR content
+- Note: This pack excludes icons for abilities that have been deleted (e.g., Cloudburst Totem)
 
+**[YouTube Guide for Icon Pack Installation](https://www.youtube.com/watch?v=CKY6U37Bn1s)**
 
 Installation:
 1. Download and extract the PNG.zip
@@ -62,6 +70,8 @@ Installation:
 - **Right Mouse Drag** - Rotate camera
 - **Left/Middle Drag** - Pan camera
 - **Mouse Wheel** - Zoom in/out
+- **Space** - Play/Pause timeline
+- **F5** - Refresh encounters
 - **File Menu** - Change encounter or log file
 
 ## Requirements
