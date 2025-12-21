@@ -2,6 +2,8 @@
 
 A 3D combat log visualizer for World of Warcraft. Parse and replay your raid encounters with real-time positioning, damage meters, and spell tracking.
 
+https://youtu.be/eDb4Qo4WY7o?si=sYzF8eUMP7A2_hmS
+
 ![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.9.0--beta-orange)
 
 ## Preview
