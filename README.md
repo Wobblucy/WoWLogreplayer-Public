@@ -27,6 +27,9 @@ This includes everything you need to get started (~29 MB).
 ### Spell Icons (Optional)
 For spell icon support, download one of these icon packs:
 
+#### Video Guide
+https://www.youtube.com/watch?v=CKY6U37Bn1
+
 **Retail (recommended for most users):**
 [Download Retail Icons](https://drive.google.com/file/d/1ATJqh8SAmv3JDCT79-e5dU1hvi1kNlFb/view?usp=drive_link)
 
@@ -53,9 +56,6 @@ Installation:
 - **Space** - Play/Pause timeline
 - **F5** - Refresh encounters
 - **File Menu** - Change encounter or log file
-
-### Video Guide
-https://www.youtube.com/watch?v=CKY6U37Bn1s
 
 ## Requirements
 
