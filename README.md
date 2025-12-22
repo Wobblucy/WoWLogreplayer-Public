@@ -6,6 +6,8 @@ A 3D combat log visualizer for World of Warcraft. Parse and replay your raid enc
 
 ## Features
 
+https://youtu.be/eDb4Qo4WY7o?si=Af4eYho4K2DGWcou
+
 - **3D Combat Visualization** - Watch your raid's positioning in real-time 3D
 - **DPS/HPS Meters** - Track damage and healing with spell breakdowns
 - **Raid Frames** - See health/power bars for all raid members
