@@ -2,71 +2,49 @@
 
 A 3D combat log visualizer for World of Warcraft. Parse and replay your raid encounters with real-time positioning, damage meters, and spell tracking.
 
-https://youtu.be/eDb4Qo4WY7o?si=sYzF8eUMP7A2_hmS
-
-![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.9.0--beta-orange)
-
-## Preview
-
-https://github.com/user-attachments/assets/afca0faf-cb98-4675-ab91-565dcdecef63
-
-https://github.com/user-attachments/assets/8197c2d8-3ebb-4143-843c-8b4bff43d357
-
-https://github.com/user-attachments/assets/95a8c0a3-6512-4202-99ee-f4a80251a111
-
-https://github.com/user-attachments/assets/98794ac9-029c-4e0b-af06-c892e64ce4b8
+![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.10.1--beta-orange)
 
 ## Features
 
 - **3D Combat Visualization** - Watch your raid's positioning in real-time 3D
-- **WarcraftLogs Integration** - Load reports directly from WarcraftLogs URLs
 - **DPS/HPS Meters** - Track damage and healing with spell breakdowns
-- **Actor Breakdown Panel** - Detailed spell-by-spell analysis with interactive time range selection
 - **Raid Frames** - See health/power bars for all raid members
 - **Enemy Grid** - Monitor boss and add health
 - **Death Log** - Click to jump to any player death in the timeline
 - **World Maps** - Dungeon and raid maps rendered on the floor plane
 - **Spell Icons** - Optional icon pack for spell history display
 - **Timeline Scrubbing** - Navigate through encounters frame-by-frame
-- **Pre-Encounter Events** - View pre-pull buffs and positioning with negative timestamps
-
-![Screenshot 2025-12-19 004159](https://github.com/user-attachments/assets/08f7ad0a-6811-4213-a8f6-ef84502b9435)
+- **GCD History** - Track spell casts with customizable filtering
+- **Spell Assignments** - Configure which spells appear in each UI panel
 
 ## Downloads
 
 ### Quick Start (Lite Version)
-Download **AwowLab-v0.9.0-beta-Lite.zip** from the [Releases](https://github.com/Wobblucy/WoWLogreplayer-Public/releases) page.
+Download **AwowLab-v0.10.1-beta-Lite.zip** from the [Releases](https://github.com/Wobblucy/WoWLogreplayer-Public/releases) page.
 
-This includes everything you need to get started (~28 MB).
+This includes everything you need to get started (~29 MB).
 
 ### Spell Icons (Optional)
-For spell icon support, download one of the PNG packs from Google Drive:
+For spell icon support, download one of these icon packs:
 
-**Retail (Recommended for most users):**
-**[Download Retail Icon Pack](https://drive.google.com/file/d/1ATJqh8SAmv3JDCT79-e5dU1hvi1kNlFb/view?usp=drive_link)**
-- Use this pack if you are analyzing retail WoW logs
-- Contains all current spell icons
+**Retail (recommended for most users):**
+[Download Retail Icons](https://drive.google.com/file/d/1ATJqh8SAmv3JDCT79-e5dU1hvi1kNlFb/view?usp=drive_link)
 
-**Beta/PTR:**
-**[Download Beta Icon Pack](https://drive.google.com/file/d/1TIeLQ6Dt7QBSMeqBPAqY_Dy5e_q6ABQ0/view?usp=drive_link)**
-- Use this pack for beta/PTR content
-- Note: This pack excludes icons for abilities that have been deleted (e.g., Cloudburst Totem)
-
-**[YouTube Guide for Icon Pack Installation](https://www.youtube.com/watch?v=CKY6U37Bn1s)**
+**Beta (smaller file, excludes removed abilities like Cloudburst):**
+[Download Beta Icons](https://drive.google.com/file/d/1TIeLQ6Dt7QBSMeqBPAqY_Dy5e_q6ABQ0/view?usp=drive_link)
 
 Installation:
-1. Download and extract the PNG.zip
+1. Download and extract the icon pack
 2. Replace the `PNG` folder in your AwowLab directory with the one from the ZIP
 3. Restart AwowLab - icons will load automatically
 
 ## Usage
 
 1. Run `AwowLab.exe`
-2. Choose your data source:
-   - **Local File** - Browse for your WoW combat log (usually in `World of Warcraft\_retail_\Logs\`)
-   - **WarcraftLogs** - Paste a WarcraftLogs report URL
-3. Select an encounter from the list
-4. Use the timeline to scrub through the fight
+2. Click "Local File" on the landing page
+3. Select your WoW combat log file (usually in `World of Warcraft\_retail_\Logs\`)
+4. Choose an encounter from the list
+5. Use the timeline to scrub through the fight
 
 ### Controls
 - **Right Mouse Drag** - Rotate camera
@@ -75,6 +53,9 @@ Installation:
 - **Space** - Play/Pause timeline
 - **F5** - Refresh encounters
 - **File Menu** - Change encounter or log file
+
+### Video Guide
+https://www.youtube.com/watch?v=CKY6U37Bn1s
 
 ## Requirements
 
