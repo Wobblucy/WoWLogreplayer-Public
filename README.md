@@ -32,11 +32,8 @@ For spell icon support, download one of these icon packs:
 #### Video Guide
 https://www.youtube.com/watch?v=CKY6U37Bn1
 
-**Retail (recommended for most users):**
-[Download Retail Icons](https://drive.google.com/file/d/1ATJqh8SAmv3JDCT79-e5dU1hvi1kNlFb/view?usp=drive_link)
-
-**Beta (smaller file, excludes removed abilities like Cloudburst):**
-[Download Beta Icons](https://drive.google.com/file/d/1TIeLQ6Dt7QBSMeqBPAqY_Dy5e_q6ABQ0/view?usp=drive_link)
+**Retail (recommended icon pack):**
+https://drive.google.com/file/d/1X0eU_QIsGJv7ChgXj_FoACtzm1dVQlys/view?usp=drive_link
 
 Installation:
 1. Download and extract the icon pack
