@@ -34,6 +34,8 @@ This includes everything you need to get started (~39 MB).
 ### Spell Icons (Optional)
 For spell icon support, download one of these icon packs:
 
+[Installation guide](https://www.youtube.com/watch?v=CKY6U37Bn1s)
+
 **Retail (recommended):**
 https://drive.google.com/file/d/1X0eU_QIsGJv7ChgXj_FoACtzm1dVQlys/view?usp=drive_link
 
@@ -83,6 +85,7 @@ Please report issues at: https://github.com/Wobblucy/WoWLogreplayer-Public/issue
 ## License
 
 This software is provided as-is for personal use.
+
 
 
 
