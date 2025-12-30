@@ -75,16 +75,16 @@ Installation:
 - Vulkan-compatible GPU (NVIDIA GTX 900+, AMD RX 400+, Intel Arc)
 - 4GB RAM minimum
 
-## Video Guide
-https://www.youtube.com/watch?v=CKY6U37Bn1s
-
 ## Bug Reports & Feedback
 
 Please report issues at: https://github.com/Wobblucy/WoWLogreplayer-Public/issues
 
+Or use the discord link above. 
+
 ## License
 
 This software is provided as-is for personal use.
+
 
 
 
