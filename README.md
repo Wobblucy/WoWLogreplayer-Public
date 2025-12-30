@@ -32,10 +32,7 @@ This includes everything you need to get started (~39 MB).
 For spell icon support, download one of these icon packs:
 
 **Retail (recommended):**
-https://drive.google.com/file/d/1ATJqh8SAmv3JDCT79-e5dU1hvi1kNlFb/view?usp=drive_link
-
-**Beta (excludes removed abilities):**
-https://drive.google.com/file/d/1TIeLQ6Dt7QBSMeqBPAqY_Dy5e_q6ABQ0/view?usp=drive_link
+https://drive.google.com/file/d/1X0eU_QIsGJv7ChgXj_FoACtzm1dVQlys/view?usp=drive_link
 
 Installation:
 1. Download and extract the icon pack
@@ -83,3 +80,4 @@ Please report issues at: https://github.com/Wobblucy/WoWLogreplayer-Public/issue
 ## License
 
 This software is provided as-is for personal use.
+
