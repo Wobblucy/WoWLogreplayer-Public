@@ -4,9 +4,11 @@ A 3D combat log visualizer for World of Warcraft. Parse and replay your raid enc
 
 ![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.13.0-orange)
 
-## Features
+## Socials
+https://www.youtube.com/@AWowlab - Contains showcase and feature explanations
+https://discord.gg/NPPFYtyz - Sparse right now but will be a repository for HQ map textures, auto annotation files, and a direct line to me.
 
-https://youtu.be/eDb4Qo4WY7o?si=Af4eYho4K2DGWcou
+
 
 - **3D Combat Visualization** - Watch your raid's positioning in real-time 3D
 - **DPS/HPS Meters** - Track damage and healing with spell/target/pet breakdowns
@@ -80,4 +82,5 @@ Please report issues at: https://github.com/Wobblucy/WoWLogreplayer-Public/issue
 ## License
 
 This software is provided as-is for personal use.
+
 
