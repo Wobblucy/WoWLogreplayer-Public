@@ -9,7 +9,7 @@ https://www.youtube.com/@AWowlab - Contains showcase and feature explanations
 
 https://discord.gg/NPPFYtyz - Sparse right now but will be a repository for HQ map textures, auto annotation files, and a direct line to me.
 
-
+## Features
 
 - **3D Combat Visualization** - Watch your raid's positioning in real-time 3D
 - **DPS/HPS Meters** - Track damage and healing with spell/target/pet breakdowns
@@ -83,6 +83,7 @@ Please report issues at: https://github.com/Wobblucy/WoWLogreplayer-Public/issue
 ## License
 
 This software is provided as-is for personal use.
+
 
 
 
