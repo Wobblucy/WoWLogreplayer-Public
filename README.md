@@ -6,6 +6,7 @@ A 3D combat log visualizer for World of Warcraft. Parse and replay your raid enc
 
 ## Socials
 https://www.youtube.com/@AWowlab - Contains showcase and feature explanations
+
 https://discord.gg/NPPFYtyz - Sparse right now but will be a repository for HQ map textures, auto annotation files, and a direct line to me.
 
 
@@ -82,5 +83,6 @@ Please report issues at: https://github.com/Wobblucy/WoWLogreplayer-Public/issue
 ## License
 
 This software is provided as-is for personal use.
+
 
 
