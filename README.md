@@ -2,12 +2,12 @@
 
 A 3D combat log visualizer for World of Warcraft. Parse and replay your raid encounters with real-time positioning, damage meters, and spell tracking.
 
-![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.13.0-orange)
+![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.14.0-orange)
 
-## Socials
-https://www.youtube.com/@AWowlab - Contains showcase and feature explanations
+## Community
 
-https://discord.gg/NPPFYtyz - Sparse right now but will be a repository for HQ map textures, auto annotation files, and a direct line to me.
+- **YouTube:** https://www.youtube.com/@AWowlab - Tutorials and feature demos
+- **Discord:** https://discord.gg/ahvJ3S7XDR - Bug reports, feedback, shared triggers, HQ map textures
 
 ## Features
 
@@ -17,7 +17,7 @@ https://discord.gg/NPPFYtyz - Sparse right now but will be a repository for HQ m
 - **Enemy Grid** - Monitor boss and add health
 - **Death Log** - Click to jump to any player death in the timeline
 - **World Maps** - Dungeon and raid maps rendered on the floor plane
-- **Spell Icons** - Optional icon pack for spell history display
+- **Spell Icons** - 8,000+ icons included, optional full pack available
 - **Timeline Scrubbing** - Navigate through encounters frame-by-frame
 - **GCD History** - Track spell casts with customizable filtering
 - **Spell Assignments** - Configure which spells appear in each UI panel
@@ -26,25 +26,26 @@ https://discord.gg/NPPFYtyz - Sparse right now but will be a repository for HQ m
 
 ## Downloads
 
-### Quick Start (Lite Version)
-Download **AwowLab-v0.13.0-Lite.zip** from the [Releases](https://github.com/Wobblucy/WoWLogreplayer-Public/releases) page.
+### Latest Release
+Download **AwowLab-v0.14.0.zip** from the [Releases](https://github.com/Wobblucy/WoWLogreplayer-Public/releases) page.
 
-This includes everything you need to get started (~39 MB).
+This release includes **8,000+ spell icons** covering all class abilities, current season content, and recent spells (~59 MB).
 
-### Spell Icons (Optional)
-For spell icon support, download one of these icon packs:
+**Note:** This release targets patch 12.0 spell data. Some icons from 11.2 or earlier may be missing.
 
-[Installation guide](https://www.youtube.com/watch?v=CKY6U37Bn1s)
+### Full Icon Pack (Optional)
+If you encounter missing icons or need coverage for older content:
 
-**Retail (recommended):**
 https://drive.google.com/file/d/1X0eU_QIsGJv7ChgXj_FoACtzm1dVQlys/view?usp=drive_link
 
 Installation:
 1. Download and extract the icon pack
-2. Replace the `PNG` folder in your AwowLab directory with the one from the ZIP
-3. Restart AwowLab - icons will load automatically
+2. Replace the `PNG` folder in your AwowLab directory
+3. Restart AwowLab
 
-**Note:** The PlayAlong feature requires the spell icon pack to function correctly.
+[Video guide](https://www.youtube.com/watch?v=CKY6U37Bn1s)
+
+**Note:** The PlayAlong feature requires spell icons to function correctly.
 
 ## Usage
 
@@ -63,11 +64,11 @@ Installation:
 - **Ctrl+Click Spell Icon** - Open Wowhead spell page
 - **File Menu** - Change encounter or log file
 
-## What's New in v0.13.0
+## What's New in v0.14.0
 
-- **Wowhead Integration** - Ctrl+click on any spell icon to open its Wowhead page in your browser
-- **Improved Meters** - Combat meters now show spell, target, and pet breakdowns in tooltips
-- **PlayAlong Mode (ALPHA)** - Experimental feature to practice movement by following recorded player positions. Select a player and try to match their movement during the encounter.
+- **Bundled Spell Icons** - 8,000+ icons included directly in the release
+- **Smaller Download** - Curated icon pack reduces size from 150MB to 59MB
+- **12.0 Spell Data** - Updated for current patch content
 
 ## Requirements
 
@@ -77,16 +78,9 @@ Installation:
 
 ## Bug Reports & Feedback
 
-Please report issues at: https://github.com/Wobblucy/WoWLogreplayer-Public/issues
-
-Or use the discord link above. 
+- **Discord:** https://discord.gg/ahvJ3S7XDR
+- **GitHub Issues:** https://github.com/Wobblucy/WoWLogreplayer-Public/issues
 
 ## License
 
 This software is provided as-is for personal use.
-
-
-
-
-
-
