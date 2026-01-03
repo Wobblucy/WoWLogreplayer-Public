@@ -2,7 +2,16 @@
 
 A 3D combat log visualizer for World of Warcraft. Parse and replay your raid encounters with real-time positioning, damage meters, and spell tracking.
 
-![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.14.0-orange)
+![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.15.0-green)
+
+## Quick Start
+
+**[>>> Download AwowLabUpdater.exe <<<](https://github.com/Wobblucy/WoWLogreplayer-Public/releases/download/v0.15.0/AwowLabUpdater.exe)**
+
+1. Download `AwowLabUpdater.exe` (174 KB)
+2. Put it in a folder where you want AwowLab installed
+3. Double-click to run - it downloads everything automatically (~67 MB)
+4. AwowLab launches when complete!
 
 ## Community
 
@@ -17,21 +26,18 @@ A 3D combat log visualizer for World of Warcraft. Parse and replay your raid enc
 - **Enemy Grid** - Monitor boss and add health
 - **Death Log** - Click to jump to any player death in the timeline
 - **World Maps** - Dungeon and raid maps rendered on the floor plane
-- **Spell Icons** - 8,000+ icons included, optional full pack available
+- **Spell Icons** - 8,000+ icons included automatically
 - **Timeline Scrubbing** - Navigate through encounters frame-by-frame
 - **GCD History** - Track spell casts with customizable filtering
 - **Spell Assignments** - Configure which spells appear in each UI panel
 - **Wowhead Integration** - Ctrl+click any spell icon to open its Wowhead page
+- **Auto-Updater** - Click "Check for Updates" to get the latest version
 - **PlayAlong Mode (ALPHA)** - Practice movement by following recorded player positions
 
 ## Downloads
 
-### Latest Release
-Download **AwowLab-v0.14.0.zip** from the [Releases](https://github.com/Wobblucy/WoWLogreplayer-Public/releases) page.
-
-This release includes **8,000+ spell icons** covering all class abilities, current season content, and recent spells (~59 MB).
-
-**Note:** This release targets patch 12.0 spell data. Some icons from 11.2 or earlier may be missing.
+### Recommended: Auto-Installer
+**[Download AwowLabUpdater.exe](https://github.com/Wobblucy/WoWLogreplayer-Public/releases/download/v0.15.0/AwowLabUpdater.exe)** - Downloads and installs everything automatically.
 
 ### Full Icon Pack (Optional)
 If you encounter missing icons or need coverage for older content:
@@ -64,11 +70,11 @@ Installation:
 - **Ctrl+Click Spell Icon** - Open Wowhead spell page
 - **File Menu** - Change encounter or log file
 
-## What's New in v0.14.0
+## What's New in v0.15.0
 
-- **Bundled Spell Icons** - 8,000+ icons included directly in the release
-- **Smaller Download** - Curated icon pack reduces size from 150MB to 59MB
-- **12.0 Spell Data** - Updated for current patch content
+- **Auto-Updater** - New installer/updater system. Download once, updates automatically!
+- **Delta Updates** - Future updates only download changed files
+- **Bundled Content** - Spell icons and world maps included automatically
 
 ## Requirements
 
