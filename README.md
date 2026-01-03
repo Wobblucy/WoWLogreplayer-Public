@@ -2,15 +2,15 @@
 
 A 3D combat log visualizer for World of Warcraft. Parse and replay your raid encounters with real-time positioning, damage meters, and spell tracking.
 
-![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.15.0-green)
+![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.15.2-green)
 
 ## Quick Start
 
-**[>>> Download AwowLabUpdater.exe <<<](https://github.com/Wobblucy/WoWLogreplayer-Public/releases/download/v0.15.0/AwowLabUpdater.exe)**
+**[>>> Download AwowLabUpdater.exe <<<](https://github.com/Wobblucy/WoWLogreplayer-Public/releases/download/v0.15.2/AwowLabUpdater.exe)**
 
-1. Download `AwowLabUpdater.exe` (174 KB)
+1. Download `AwowLabUpdater.exe` (178 KB)
 2. Put it in a folder where you want AwowLab installed
-3. Double-click to run - it downloads everything automatically (~67 MB)
+3. Double-click to run - it downloads everything automatically (~86 MB)
 4. AwowLab launches when complete!
 
 ## Community
@@ -37,7 +37,7 @@ A 3D combat log visualizer for World of Warcraft. Parse and replay your raid enc
 ## Downloads
 
 ### Recommended: Auto-Installer
-**[Download AwowLabUpdater.exe](https://github.com/Wobblucy/WoWLogreplayer-Public/releases/download/v0.15.0/AwowLabUpdater.exe)** - Downloads and installs everything automatically.
+**[Download AwowLabUpdater.exe](https://github.com/Wobblucy/WoWLogreplayer-Public/releases/download/v0.15.2/AwowLabUpdater.exe)** - Downloads and installs everything automatically.
 
 ### Full Icon Pack (Optional)
 If you encounter missing icons or need coverage for older content:
@@ -70,11 +70,11 @@ Installation:
 - **Ctrl+Click Spell Icon** - Open Wowhead spell page
 - **File Menu** - Change encounter or log file
 
-## What's New in v0.15.0
+## What's New in v0.15.2
 
-- **Auto-Updater** - New installer/updater system. Download once, updates automatically!
-- **Delta Updates** - Future updates only download changed files
-- **Bundled Content** - Spell icons and world maps included automatically
+- **Cached Fights Sorting** - Sort by date or name, filter by difficulty
+- **WarcraftLogs Integration** - Enhanced metadata and caching
+- **UI Improvements** - Better fight organization
 
 ## Requirements
 
