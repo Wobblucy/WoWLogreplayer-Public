@@ -15,7 +15,6 @@ A 3D combat log visualizer for World of Warcraft. Parse and replay your raid enc
 
 ## Community
 
-- **YouTube:** https://www.youtube.com/@AWowlab - Tutorials and feature demos
 - **Discord:** https://discord.gg/ahvJ3S7XDR - Bug reports, feedback, shared triggers, HQ map textures
 
 ## Features
