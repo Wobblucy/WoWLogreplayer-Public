@@ -34,25 +34,6 @@ A 3D combat log visualizer for World of Warcraft. Parse and replay your raid enc
 - **Auto-Updater** - Click "Check for Updates" to get the latest version
 - **PlayAlong Mode (ALPHA)** - Practice movement by following recorded player positions
 
-## Downloads
-
-### Recommended: Auto-Installer
-**[Download AwowLabUpdater.exe](https://github.com/Wobblucy/WoWLogreplayer-Public/releases/download/v0.15.2/AwowLabUpdater.exe)** - Downloads and installs everything automatically.
-
-### Full Icon Pack (Optional)
-If you encounter missing icons or need coverage for older content:
-
-https://drive.google.com/file/d/1X0eU_QIsGJv7ChgXj_FoACtzm1dVQlys/view?usp=drive_link
-
-Installation:
-1. Download and extract the icon pack
-2. Replace the `PNG` folder in your AwowLab directory
-3. Restart AwowLab
-
-[Video guide](https://www.youtube.com/watch?v=CKY6U37Bn1s)
-
-**Note:** The PlayAlong feature requires spell icons to function correctly.
-
 ## Usage
 
 1. Run `AwowLab.exe`
@@ -70,11 +51,6 @@ Installation:
 - **Ctrl+Click Spell Icon** - Open Wowhead spell page
 - **File Menu** - Change encounter or log file
 
-## What's New in v0.15.2
-
-- **Cached Fights Sorting** - Sort by date or name, filter by difficulty
-- **WarcraftLogs Integration** - Enhanced metadata and caching
-- **UI Improvements** - Better fight organization
 
 ## Requirements
 
