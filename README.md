@@ -6,7 +6,9 @@ A 3D combat log visualizer for World of Warcraft. Parse and replay your raid enc
 
 ## Quick Start
 
-[>>> Download AwowLabUpdater.exe <<<](https://github.com/Wobblucy/WoWLogreplayer-Public/releases/download/v0.16.0/AwowLab.exe)
+proceed to the latest release:
+
+https://github.com/Wobblucy/WoWLogreplayer-Public/releases/latest
 
 1. Download `AwowLabUpdater.exe` (178 KB)
 2. Put it in a folder where you want AwowLab installed
