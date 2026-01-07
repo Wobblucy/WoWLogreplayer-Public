@@ -2,15 +2,15 @@
 
 A 3D combat log visualizer for World of Warcraft. Parse and replay your raid encounters with real-time positioning, damage meters, and spell tracking.
 
-![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.15.2-green)
+![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.17.0-green)
 
 ## Quick Start
 
-proceed to the latest release:
+Proceed to the latest release:
 
 https://github.com/Wobblucy/WoWLogreplayer-Public/releases/latest
 
-1. Download `AwowLabUpdater.exe` (178 KB)
+1. Download `AwowLabUpdater.exe` (200 KB)
 2. Put it in a folder where you want AwowLab installed
 3. Double-click to run - it downloads everything automatically (~86 MB)
 4. AwowLab launches when complete!
@@ -18,6 +18,14 @@ https://github.com/Wobblucy/WoWLogreplayer-Public/releases/latest
 ## Community
 
 - **Discord:** https://discord.gg/ahvJ3S7XDR - Bug reports, feedback, shared triggers, HQ map textures
+
+## What's New in v0.17.0
+
+- **Improved Cooldown Tracking** - Enhanced detection of charge-based spell cooldowns (Fire Blast, Rune of Power, etc.)
+- **Expanded Modifier Detection** - Better tracking of talents and effects that modify spell cooldowns
+- **Updated Spell Data** - Latest spell data and talent modifiers for The War Within Season 1
+- **PlayAlong Improvements** - Friendly players rendered at 30% opacity, audio feedback for positioning errors
+- **UI Polish** - Refined landing page and card rendering
 
 ## Features
 
@@ -30,6 +38,7 @@ https://github.com/Wobblucy/WoWLogreplayer-Public/releases/latest
 - **Spell Icons** - 8,000+ icons included automatically
 - **Timeline Scrubbing** - Navigate through encounters frame-by-frame
 - **GCD History** - Track spell casts with customizable filtering
+- **Cooldown Panel** - Monitor personal and raid-wide cooldowns with charge tracking
 - **Spell Assignments** - Configure which spells appear in each UI panel
 - **Wowhead Integration** - Ctrl+click any spell icon to open its Wowhead page
 - **Auto-Updater** - Click "Check for Updates" to get the latest version
