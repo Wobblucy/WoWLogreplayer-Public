@@ -2,7 +2,7 @@
 
 A 3D combat log visualizer for World of Warcraft. Parse and replay your raid encounters with real-time positioning, damage meters, and spell tracking.
 
-![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.17.0-green)
+![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.17.4-green)
 
 ## Quick Start
 
@@ -19,13 +19,18 @@ https://github.com/Wobblucy/WoWLogreplayer-Public/releases/latest
 
 - **Discord:** https://discord.gg/ahvJ3S7XDR - Bug reports, feedback, shared triggers, HQ map textures
 
-## What's New in v0.17.0
+## What's New in v0.17.4
 
-- **Improved Cooldown Tracking** - Enhanced detection of charge-based spell cooldowns (Fire Blast, Rune of Power, etc.)
-- **Expanded Modifier Detection** - Better tracking of talents and effects that modify spell cooldowns
-- **Updated Spell Data** - Latest spell data and talent modifiers for The War Within Season 1
-- **PlayAlong Improvements** - Friendly players rendered at 30% opacity, audio feedback for positioning errors
-- **UI Polish** - Refined landing page and card rendering
+- **Auto-Updater Fix** - Fixed path traversal detection false positives that prevented extraction of files with ".." in filenames (e.g., spell icons)
+
+## Recent Updates
+
+**v0.17.0:**
+- Improved Cooldown Tracking - Enhanced detection of charge-based spell cooldowns (Fire Blast, Rune of Power, etc.)
+- Expanded Modifier Detection - Better tracking of talents and effects that modify spell cooldowns
+- Updated Spell Data - Latest spell data and talent modifiers for The War Within Season 1
+- PlayAlong Improvements - Friendly players rendered at 30% opacity, audio feedback for positioning errors
+- UI Polish - Refined landing page and card rendering
 
 ## Features
 
