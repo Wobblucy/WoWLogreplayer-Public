@@ -2,7 +2,7 @@
 
 A 3D combat log visualizer for World of Warcraft. Parse and replay your raid encounters with real-time positioning, damage meters, and spell tracking.
 
-![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.17.4-green)
+![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.19.1-green)
 
 ## Quick Start
 
@@ -12,25 +12,32 @@ https://github.com/Wobblucy/WoWLogreplayer-Public/releases/latest
 
 1. Download `AwowLabUpdater.exe` (200 KB)
 2. Put it in a folder where you want AwowLab installed
-3. Double-click to run - it downloads everything automatically (~86 MB)
+3. Double-click to run - it downloads everything automatically (~73 MB)
 4. AwowLab launches when complete!
 
 ## Community
 
 - **Discord:** https://discord.gg/ahvJ3S7XDR - Bug reports, feedback, shared triggers, HQ map textures
 
-## What's New in v0.17.4
+## What's New in v0.19.1
 
-- **Auto-Updater Fix** - Fixed path traversal detection false positives that prevented extraction of files with ".." in filenames (e.g., spell icons)
+- **File Associations** - Double-click `.awsnap` files to open them directly in AwowLab
+- **Single Instance** - Opening multiple files reuses existing AwowLab window instead of launching duplicates
+- **Snapshot System** - Save and load encounter snapshots with `.awsnap` format for faster loading and sharing
+- **Custom Model Support** - Load custom 3D models (.obj) for actors with full rotation/scale/offset controls
+- **Settings Hub** - Unified settings panel for easier configuration of all UI components
+- **UI Improvements** - Enhanced meter panels with better layout and performance
 
 ## Recent Updates
+
+**v0.17.4:**
+- **Auto-Updater Fix** - Fixed path traversal detection false positives that prevented extraction of files with ".." in filenames
 
 **v0.17.0:**
 - Improved Cooldown Tracking - Enhanced detection of charge-based spell cooldowns (Fire Blast, Rune of Power, etc.)
 - Expanded Modifier Detection - Better tracking of talents and effects that modify spell cooldowns
 - Updated Spell Data - Latest spell data and talent modifiers for The War Within Season 1
 - PlayAlong Improvements - Friendly players rendered at 30% opacity, audio feedback for positioning errors
-- UI Polish - Refined landing page and card rendering
 
 ## Features
 
@@ -48,6 +55,8 @@ https://github.com/Wobblucy/WoWLogreplayer-Public/releases/latest
 - **Wowhead Integration** - Ctrl+click any spell icon to open its Wowhead page
 - **Auto-Updater** - Click "Check for Updates" to get the latest version
 - **PlayAlong Mode (ALPHA)** - Practice movement by following recorded player positions
+- **Custom Models** - Import .obj files for custom actor appearances
+- **Snapshot Files** - Save/load encounters quickly without re-parsing logs
 
 ## Usage
 
