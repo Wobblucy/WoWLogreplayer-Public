@@ -2,7 +2,7 @@
 
 A 3D combat log visualizer for World of Warcraft. Parse and replay your raid encounters with real-time positioning, damage meters, and spell tracking.
 
-![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.19.1-green)
+![AwowLab Screenshot](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.21.0-green)
 
 ## Quick Start
 
@@ -19,19 +19,26 @@ https://github.com/Wobblucy/WoWLogreplayer-Public/releases/latest
 
 - **Discord:** https://discord.gg/ahvJ3S7XDR - Bug reports, feedback, shared triggers, HQ map textures
 
-## What's New in v0.19.1
+## What's New in v0.21.0
 
-- **File Associations** - Double-click `.awsnap` files to open them directly in AwowLab
-- **Single Instance** - Opening multiple files reuses existing AwowLab window instead of launching duplicates
-- **Snapshot System** - Save and load encounter snapshots with `.awsnap` format for faster loading and sharing
-- **Custom Model Support** - Load custom 3D models (.obj) for actors with full rotation/scale/offset controls
-- **Settings Hub** - Unified settings panel for easier configuration of all UI components
-- **UI Improvements** - Enhanced meter panels with better layout and performance
+- **Auto-Annotation Wizard** - Step-by-step wizard to create mechanic annotations from spell casts, damage events, auras, and actor appearances
+- **Enhanced Cached Fights Panel** - Improved organization and filtering of WarcraftLogs cached encounters
+- **Class Icon Cache** - Better performance when loading class icons throughout the UI
+- **Annotation Improvements** - Simplified annotation creation workflow with better visual feedback
+- **Buff-Based Triggers** - Create annotations triggered by hostile creature buffs/debuffs
+- **Aura Dose Tracking** - Track aura stack counts over time for detailed buff/debuff history
 
 ## Recent Updates
 
+**v0.19.1:**
+- File Associations - Double-click `.awsnap` files to open them directly in AwowLab
+- Single Instance - Opening multiple files reuses existing AwowLab window instead of launching duplicates
+- Snapshot System - Save and load encounter snapshots with `.awsnap` format for faster loading and sharing
+- Custom Model Support - Load custom 3D models (.obj) for actors with full rotation/scale/offset controls
+- Settings Hub - Unified settings panel for easier configuration of all UI components
+
 **v0.17.4:**
-- **Auto-Updater Fix** - Fixed path traversal detection false positives that prevented extraction of files with ".." in filenames
+- Auto-Updater Fix - Fixed path traversal detection false positives that prevented extraction of files with ".." in filenames
 
 **v0.17.0:**
 - Improved Cooldown Tracking - Enhanced detection of charge-based spell cooldowns (Fire Blast, Rune of Power, etc.)
